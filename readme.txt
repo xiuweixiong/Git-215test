@@ -1,2 +1,4 @@
 wukong
 bajie
+shaseng
+tangseng
