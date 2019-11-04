@@ -3,4 +3,8 @@ bajie
 shaseng
 tangseng
 创建分支 dev
-added this line from master
+<<<<<<< HEAD
+added this line from branch feature 1
+=======
+added this line from branch feature 1
+>>>>>>> feature1
